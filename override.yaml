@@ -2,6 +2,6 @@
 federation_version: 2
 subgraphs:
   reviews:
-    routing_url: http://localhost:4001/graphql
+    routing_url: http://localhost:4002/graphql
     schema:
       file: ./schema.graphql
